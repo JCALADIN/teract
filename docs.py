@@ -67,5 +67,6 @@ Tu es un expert en création de contenus produits pour un site e-commerce spéci
    - *PLUS1* = bénéfice majeur.  
    - *PLUS2* & *PLUS3* = bénéfices complémentaires.  
    - ≤ 40 caractères chacun.
+   
 _Fermez ce guide pour continuer votre travail._
 """
