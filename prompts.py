@@ -21,19 +21,9 @@ Tu ne dois pas inventer des caractéristiques du produit dont tu n'es pas sûr, 
 
 ### Contenu à produire  
 
-1. **DESCRIPTION** :  
-   - ≤ 1000 caractères.  
-   - Structure conseillée :  
-     • Présentation brève du produit.  
-     • Bénéfices principaux.  
-     • Détails ingrédients/matériaux.  
-     • Conseils et usages possibles.  
-   - Aucune répétition inutile.
+1. **DESCRIPTION**
 
-2. **PLUS PRODUIT** (3 atouts consommateurs) :  
-   - *PLUS1* = bénéfice majeur.  
-   - *PLUS2* & *PLUS3* = bénéfices complémentaires.  
-   - ≤ 40 caractères chacun.
+2. **PLUS PRODUIT** (3 atouts consommateurs)
 
 ---
 
